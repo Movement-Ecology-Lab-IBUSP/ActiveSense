@@ -10,6 +10,7 @@ library("geosphere")
 library("foreach")
 library("shiny")
 
+#fork test from caetano ;)
 
 #login once#
 loginStored <- movebankLogin(username="xxx", password="xxx")
